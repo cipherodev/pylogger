@@ -1,1 +1,1 @@
-from src.pylogger import PyLogger
+from .src.pylogger import PyLogger
