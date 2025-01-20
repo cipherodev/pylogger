@@ -13,7 +13,7 @@ A simple python logger unlike the built in logging module.
 
 ## Setup
 
-1. Clone this repository
+1. Clone this repository or download zip
 
 ## Usage
 
