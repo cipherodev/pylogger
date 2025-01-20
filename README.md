@@ -14,6 +14,9 @@ A simple python logger unlike the built in logging module.
 ## Setup
 
 1. Clone this repository or download zip
+```
+git clone https://github.com/cipherodev/pylogger.git
+```
 
 ## Usage
 
