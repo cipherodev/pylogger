@@ -23,15 +23,15 @@ git clone https://github.com/cipherodev/pylogger.git
 ```
 from pylogger import PyLogger
 
-logger = PyLogger(
+log = PyLogger(
     file='logs/app.log',
     format='%(asctime)s | %(levelname)s | %(message)s'
 )
 
-logger.info('This is an info message')
-logger.warning('This is a warning message')
-logger.error('This is an error message')
-logger.debug('This is a debug message')
+log.info('This is an info message')
+log.warning('This is a warning message')
+log.error('This is an error message')
+log.debug('This is a debug message')
 ```
 
 ## License
