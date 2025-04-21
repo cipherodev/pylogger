@@ -20,7 +20,7 @@ git clone https://github.com/cipherodev/pylogger.git
 
 ## Usage
 
-```
+```python
 from pylogger import PyLogger
 
 log = PyLogger(
