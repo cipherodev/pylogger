@@ -1,7 +1,7 @@
 
 # PyLogger
 
-A simple python logger unlike the built in logging module.
+Python logging made simple
 
 ## Features
 
